@@ -46,7 +46,7 @@ class LIS {
 	{
 		int arr[] = { 11, 2, 19, 30, 27, 40, 41, 66, 77, 88 };
 		int n = arr.length;
-		System.out.println("Length of lis is " + lis(arr, n)
+		System.out.println("Length of longest increasing Subsequence is " + lis(arr, n)
 						+ "\n");
 	}
 }
